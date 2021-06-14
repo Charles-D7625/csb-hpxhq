@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://charles-d7625.github.io/csb-hpxhq/static/js/main.8c130a5e.chunk.js",
+    "main.js.map": "https://charles-d7625.github.io/csb-hpxhq/static/js/main.8c130a5e.chunk.js.map",
+    "runtime-main.js": "https://charles-d7625.github.io/csb-hpxhq/static/js/runtime-main.3b04d2b8.js",
+    "runtime-main.js.map": "https://charles-d7625.github.io/csb-hpxhq/static/js/runtime-main.3b04d2b8.js.map",
+    "static/css/2.61b4cb56.chunk.css": "https://charles-d7625.github.io/csb-hpxhq/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.15c87508.chunk.js": "https://charles-d7625.github.io/csb-hpxhq/static/js/2.15c87508.chunk.js",
+    "static/js/2.15c87508.chunk.js.map": "https://charles-d7625.github.io/csb-hpxhq/static/js/2.15c87508.chunk.js.map",
+    "index.html": "https://charles-d7625.github.io/csb-hpxhq/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "https://charles-d7625.github.io/csb-hpxhq/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.15c87508.chunk.js.LICENSE.txt": "https://charles-d7625.github.io/csb-hpxhq/static/js/2.15c87508.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b04d2b8.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.15c87508.chunk.js",
+    "static/js/main.8c130a5e.chunk.js"
+  ]
+}
